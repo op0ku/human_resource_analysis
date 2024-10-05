@@ -25,8 +25,8 @@ The details section provides a comprehensive list of all employees with necessar
 Users can interact with the dashboard using filters to return information based on preferred employee characteristics.
 
 # Technologies Used
-Structured Query Language for extracting data and performing KPI calculations
-Tableau for creating interactive dashboards and visualizations
+* Structured Query Language (SQL) for extracting data and performing KPI calculations
+* Tableau for creating interactive dashboards and visualizations
 
 # conclusion
 This project highlights the importance of 
