@@ -1,5 +1,6 @@
 # Human Resource Analysis
 A comprehensive analysis of a human resource dataset using SQL to extract Key Performance Indicators (KPIs) and Tableau for visualizing acquired insights
+The dashboard can be accessed [here.](https://public.tableau.com/views/HumanResourceDashboard_17280945985480/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Problem Statement
 This data analysis project aims to portray the extraction of actionable insights from a human resource dataset generated with the help of a powerful Large Language Model(LLM) such as Chat-GPT and refined with the Python Faker library. This dataset simulates a set of employee information typically found in Human Resource systems including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis using SQL and visualization in Tableau.
