@@ -25,8 +25,10 @@ The details section provides a comprehensive list of all employees with necessar
 Users can interact with the dashboard using filters to return information based on preferred employee characteristics.
 
 # Technologies Used
+* Chat-GPT and Python Faker library for generating and preparing dataset
+* MySQL database for data storage
 * Structured Query Language (SQL) for extracting data and performing KPI calculations
 * Tableau for creating interactive dashboards and visualizations
 
 # conclusion
-This project highlights the importance of 
+This project provides a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
