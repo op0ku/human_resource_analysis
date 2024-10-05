@@ -12,8 +12,8 @@ A database was created in MySQL to store the human resource dataset on which ana
 ![overview](https://github.com/user-attachments/assets/5160ba79-ea54-4f2d-bdf1-b53ee28c615d)
 This dashboard provides a snapshot of the overall HR metrics, including:
 
-* Displays the distribution of active and terminated employees across departments and locations.
-* Visualize demographics of employees including age, gender, education level and performance.
+* The display of the distribution of active and terminated employees across departments and locations.
+* The visualization demographics of employees including age, gender, education level and performance.
 * Provide insights in incomes based on employees demographics.
 
 
