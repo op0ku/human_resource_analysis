@@ -19,8 +19,14 @@ This dashboard provides a snapshot of the overall HR metrics, including:
 * Show the distribution of employees by city and state.
 
 
+2. Details
+![details](https://github.com/user-attachments/assets/767c36a3-2503-4ec5-a423-71f3e10ff705)
+The details section provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+Users can interact with the dashboard using filters to return information based on preferred employee characteristics.
+
 # Technologies Used
 Structured Query Language for extracting data and performing KPI calculations
 Tableau for creating interactive dashboards and visualizations
 
 # conclusion
+This project highlights the importance of 
