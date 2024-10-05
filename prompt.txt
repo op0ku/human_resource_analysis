@@ -1,0 +1,18 @@
+Generating data by prompting ChatGPT
+
+Generate a python code that generates a realistic dataset of 8950 records for human resources dataset. The dataset should include the following columns:
+1.Employee ID: A unique identifier.
+2.First Name: Randomly generated.
+3.Last Name: Randomly generated.
+4.Gender: Randomly chosen with a 46% probability for ‘Female’ and a 54% probability for ‘Male’.
+5.State and City: Randomly assigned from a predefined list of states and their cities.
+6.Hire Date: Randomly generated with custom probabilities for each year, for the years 2015 through 2024.
+7.Department: Randomly chosen from a list of departments with specified probabilities.
+8.Job Title: Randomly selected based on the department, with specific probabilities for each job title within the department.
+9.Education Level: generated based on the job title, chosen from a predefined mapping of job titles to education levels.
+10.Performance Rating: Randomly selected from ‘Excellent’, ‘Good’, ‘Satisfactory’, ‘Needs Improvement’ with specified probabilities.
+11.Salary: Calculated based on gender, education level, and age, applying specific multipliers and increments.
+12.Birth Date: Generated based on age group distribution and job title requirements, ensuring consistency with the hire date.
+13.Termination Date: Assigned to 11.2% of the total employees with specific probabilities for each year from 2015 through 2024, ensuring the termination date is at least 6 months after the hire date.
+
+Be sure to structure the code cleanly, using functions where appropriate, and include comments to explain each step of the process.
