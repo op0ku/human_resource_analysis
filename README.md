@@ -1,5 +1,6 @@
 # Human Resource Analysis
-A comprehensive analysis of a human resource dataset using SQL to extract Key Performance Indicators (KPIs) and Tableau for visualizing acquired insights
+A comprehensive analysis of a human resource dataset using SQL to extract Key Performance Indicators (KPIs) and Tableau for visualizing acquired insights.
+
 The dashboard can be accessed [here.](https://public.tableau.com/views/HumanResourceDashboard_17280945985480/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Problem Statement
