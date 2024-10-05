@@ -12,11 +12,9 @@ A database was created in MySQL to store the human resource dataset on which ana
 ![overview](https://github.com/user-attachments/assets/5160ba79-ea54-4f2d-bdf1-b53ee28c615d)
 This dashboard provides a snapshot of the overall HR metrics, including:
 
-* Display the total number of hired employees, active employees, and terminated employees.
-* Visualize the total number of hired and terminated employees over the years.
-* Present a breakdown of total employees by department and job titles.
-* Compare total employees between headquarters (HQ) and branches (New York is the HQ)
-* Show the distribution of employees by city and state.
+* Displays the distribution of active and terminated employees across departments and locations.
+* Visualize demographics of employees including age, gender, education level and performance.
+* Provide insights in incomes based on employees demographics.
 
 
 2. Details
