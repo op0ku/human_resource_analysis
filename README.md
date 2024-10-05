@@ -5,7 +5,7 @@ A comprehensive analysis of a human resource dataset using SQL to extract Key Pe
 This data analysis project aims to portray the extraction of actionable insights from a human resource dataset generated with the help of a powerful Large Language Model(LLM) such as Chat-GPT and refined with the Python Faker library. This dataset simulates a set of employee information typically found in Human Resource systems including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis using SQL and visualization in Tableau.
 
 # Implementation
-A database was created to store the human resource dataset on which analysis will be performed. Key Performance Indicators (KPIs) were extracted by quering the data with SQL to extract actionable insights and detect trends. Dashboards were crafted using Tableau's powerful visualization tools and analytical capabilities to portray precise field utilization.
+A database was created in MySQL to store the human resource dataset on which analysis will be performed. Key Performance Indicators (KPIs) were extracted by quering the data with SQL to extract actionable insights and detect trends. Dashboards were crafted using Tableau's powerful visualization tools and analytical capabilities to portray precise field utilization.
 
 # Dashboards
 1. Overview
